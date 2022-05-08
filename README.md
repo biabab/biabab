@@ -1,4 +1,4 @@
-# Hi, my name is Ebele Ezenwa! 👋🏽👩🏽‍💻
+# Hi, my name is Ebele! 👋🏽👩🏽‍💻
 
 <img>
 
