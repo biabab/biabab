@@ -13,13 +13,11 @@ I am an aspiring software engineer and developer who is passionate about using t
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 <br>
-<br>
 
 ## IDEs✍🏽:
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=flat&logo=spyder%20ide&logoColor=maroon)
-<br>
 <br>
 
 ## Find me tinkering with code around the web🌐:
