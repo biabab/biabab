@@ -1,6 +1,7 @@
 # Hi, my name is Ebele! 👋🏽👩🏽‍💻
 
-<img>
+[![Polish_20220509_052213626 15297](https://user-images.githubusercontent.com/68580825/167384686-1ee0cae0-bda6-4a1a-adc8-e2d8bcbd641a.png)](#)
+
 
 I am an aspiring software engineer and developer who is passionate about using technology as a means to improve people's lives in big and small ways. My first encounter with programming was in a college course called Computational Biology in 2020. Although I initially took the class to simply fulfill a requirement for my Bachelor's degree in Cellular Biology, I came away with so much more. I learned the basics of Python and R and how to apply them to various biological issues including the analysis of cellular imaging using computer vision, the comparison of DNA segments using PAM and BLOSUM scoring matrices, and so much more. Ultimately, this one semester course marked the beginning of my programming journey and has resulted in the passion I have for coding which I am still fostering today. Currently, I am working in a computational drug discovery lab while learning more about software engineering and development through personal projects which can be found here! <br>
 <br>
