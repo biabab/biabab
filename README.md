@@ -29,7 +29,7 @@ Find me tinkering with code around the web! 🌐
 </td>
 
 <td align="center">
-<p><a href="https://jsfiddle.net/user/biabab/fiddles/"><img src="https://img.shields.io/static/v1?message=JSFiddle&amp;logo=jsfiddle&amp;labelColor=5c5c5c&amp;color=blue&amp;logoColor=9cf&amp;label=%20" alt="JSFiddle"></a> <!---<a href="#"><img src="https://img.shields.io/badge/Codepen-000000?style=flat&amp;logo=codepen&amp;logoColor=white" alt="CodePen"></a> <a href="#"><img src="https://img.shields.io/badge/LeetCode-000000?style=flat&amp;logo=LeetCode&amp;logoColor=#d16c06" alt="LeetCode"></a> <a href="#"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&amp;logo=HackerRank&amp;logoColor=white" alt="HackerRank"></a></p>--->
+<p><a href="https://jsfiddle.net/user/biabab/fiddles/"><img src="https://img.shields.io/static/v1?message=JSFiddle&amp;logo=jsfiddle&amp;labelColor=5c5c5c&amp;color=blue&amp;logoColor=9cf&amp;label=%20" alt="JSFiddle"></a> <!---<a href="https://codepen.io/biabab"><img src="https://img.shields.io/badge/Codepen-000000?style=flat&amp;logo=codepen&amp;logoColor=white" alt="CodePen"></a> <a href="https://leetcode.com/biabab/"><img src="https://img.shields.io/badge/LeetCode-000000?style=flat&amp;logo=LeetCode&amp;logoColor=#d16c06" alt="LeetCode"></a> <a href="https://www.hackerrank.com/profile/biabab"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&amp;logo=HackerRank&amp;logoColor=white" alt="HackerRank"></a></p>--->
 </td>
   
 </tr>
